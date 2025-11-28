@@ -1,0 +1,12 @@
+{
+  "context": {
+    "fileFiltering": {
+      "respectGitIgnore": false
+    }
+  },
+  "security": {
+    "folderTrust": {
+      "enabled": true
+    }
+  }
+}
